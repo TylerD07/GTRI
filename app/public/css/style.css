@@ -14,3 +14,12 @@ p{
     color: gold;
     background-color: #303030;
 }
+
+#imgHeight{
+    height: 450px;
+}
+
+#bioPic{
+    width: 350px;
+    height: 400px
+}
