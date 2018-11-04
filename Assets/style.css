@@ -1,0 +1,16 @@
+body{
+    background-color: #303030;
+}
+
+p{
+    color: gold;
+}
+
+.jumbotron{
+    background-color: gold;
+}
+
+.input-group-text{
+    color: gold;
+    background-color: #303030;
+}
